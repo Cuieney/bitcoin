@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimaryDark"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/back" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="请仔细记住下面这句话"
+        android:textColor="@android:color/black"/>
+
+    <RelativeLayout
+        android:id="@+id/list_container"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_below="@id/tips"
+        android:layout_marginTop="50dp"
+        android:background="#F2F2F2"
+        >
+
+        <View
+            android:layout_alignParentTop="true"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@drawable/dash_line_sp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/deterministic_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/dash_line_sp" />
+    </RelativeLayout>
+
+
+
+
+
+    <TextView
+        android:id="@+id/create_wallet"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/btn_sp"
+        android:gravity="center"
+        android:text="我已经把它记下来了"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/tips2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_above="@id/create_wallet"
+        android:layout_marginTop="70dp"
+        android:gravity="center"
+        android:text="我们会在下一个页面进行确认"
+        android:textColor="@android:color/black" />
+
+
+</RelativeLayout>

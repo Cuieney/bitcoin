@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bitcoinj:bitcoinj:release-0.15-SNAPSHOT@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bitcoinj/bitcoinj/release-0.15-SNAPSHOT/ad2ccedba936d8746f722c3962c1a0f5d16682de/bitcoinj-release-0.15-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bitcoinj/bitcoinj/release-0.15-SNAPSHOT/5130ebc84de269b270a52c0e1a9032aa061a2187/bitcoinj-release-0.15-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
