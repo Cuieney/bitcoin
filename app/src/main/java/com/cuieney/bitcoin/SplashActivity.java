@@ -12,7 +12,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
-import io.reactivex.Flowable;
 import io.reactivex.Single;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
@@ -47,7 +46,7 @@ public class SplashActivity extends AppCompatActivity {
         if (file.exists()) {
             startActivity(new Intent(this,MainActivity.class));
         }else{
-            startActivity(new Intent(this,CreateWalletActivity.class));
+            startActivity(new Intent(this,ChooseWalletActivity.class));
         }
         finish();
     }

@@ -27,6 +27,9 @@
 
         </activity>
         <activity android:name=".CreateWalletActivity" />
+        <activity android:name=".ChooseWalletActivity" />
+        <activity android:name=".RecoverWalletActivity" />
+        <activity android:name=".MainKitActivity" />
     </application>
 
 </manifest>

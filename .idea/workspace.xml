@@ -6,6 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="MainActivity" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
@@ -81,7 +82,48 @@
     <last-search-timestamp>1573637851899</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb585e37-411f-41cd-9f04-cd4179bbbbff" name="Default Changelist" comment="" />
+    <list default="true" id="eb585e37-411f-41cd-9f04-cd4179bbbbff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_27_1_android_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/checkpoints-testnet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/ChooseWalletActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainKitActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/RecoverWalletActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_bitcoin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_wallet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_recover_wallet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_download_peers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/CreateWalletActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/CreateWalletActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/dash_line_sp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dash_line_sp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitcoin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bitcoin.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,25 +173,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="47" column="63" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="63" />
+            <state relative-caret-position="1090">
+              <caret line="365" column="26" selection-start-line="365" selection-start-column="26" selection-end-line="365" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#719#921#0" expanded="true" />
-                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#5070#5071#0" expanded="true" />
+                <element signature="e#5122#5123#0" expanded="true" />
+                <element signature="e#5273#5274#0" expanded="true" />
+                <element signature="e#5316#5317#0" expanded="true" />
+                <element signature="e#8222#8223#0" expanded="true" />
+                <element signature="e#8304#8305#0" expanded="true" />
+                <element signature="e#9326#9327#0" expanded="true" />
+                <element signature="e#9412#9413#0" expanded="true" />
+                <element signature="e#14442#14443#0" expanded="true" />
+                <element signature="e#14472#14473#0" expanded="true" />
+                <element signature="e#14520#14521#0" expanded="true" />
+                <element signature="e#14553#14554#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/App.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.1-android/60011ced203c8bc4b3a8cde2221dd892f37a598d/guava-27.1-android-sources.jar!/com/google/common/util/concurrent/AbstractIdleService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="130" selection-start-line="6" selection-start-column="130" selection-end-line="6" selection-end-column="130" />
+            <state relative-caret-position="699">
+              <caret line="157" column="20" selection-start-line="157" selection-start-column="20" selection-end-line="157" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.1-android/60011ced203c8bc4b3a8cde2221dd892f37a598d/guava-27.1-android-sources.jar!/com/google/common/util/concurrent/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/ChooseWalletActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,84 +233,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/CreateWalletActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+            <state relative-caret-position="-224">
+              <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1385#1569#0" expanded="true" />
-                <element signature="e#1568#1569#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/KeyAdapter.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/RecoverWalletActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+            <state relative-caret-position="257">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#989#990#0" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_key_word.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="-52">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="793">
+              <caret line="153" column="55" selection-start-line="153" selection-start-column="55" selection-end-line="153" selection-end-column="55" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_sp.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bitcoin.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainKitActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_wallet.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_sp.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/dash_line_sp.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="188">
+              <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -247,16 +295,48 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="resourceFile" />
         <option value="Class" />
         <option value="layoutResourceFile_vertical" />
-        <option value="resourceFile" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>newlySavedFile</find>
+      <find>seed</find>
+      <find>import org.bitcoinj.core.PeerGroup;</find>
+      <find>MemoryBlockStore</find>
+      <find>onPreMessageReceived</find>
+      <find>onPeersDiscovered</find>
+      <find>params</find>
+      <find>PARAMS</find>
+      <find>TestNet3Params.get()</find>
+      <find>recoveryWallet</find>
+      <find>vWalletFile</find>
+      <find>blockingStartup</find>
+      <find>restoreFromSeed</find>
+      <find>preferredOutputScriptType</find>
+      <find>walletFactory</find>
+      <find>structure</find>
+      <find>loadWallet</find>
+      <find>createLocalWallet</find>
+      <find>onWalletChanged</find>
+      <find>progress</find>
+      <find>walletReceiverStatus</find>
+      <find>createWallet</find>
+      <find>transfer</find>
+      <find>addCoinsReceivedEventListener</find>
+      <find>wallet()</find>
     </findStrings>
+    <replaceStrings>
+      <replace>params</replace>
+      <replace>App.PARAMS</replace>
+      <replace>wallet</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -268,32 +348,38 @@
         <option value="$PROJECT_DIR$/app/src/main/res/color/transparent.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/BitUtil.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/App.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/KeyAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/btn_sp.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_key_word.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/dash_line_sp.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/CreateWalletActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_create_wallet.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/dash_line_sp.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_recover_wallet.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/ChooseWalletActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_wallet.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/App.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/CreateWalletActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_download_peers.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/RecoverWalletActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainKitActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="2560" />
-    <option name="height" value="1340" />
+    <option name="height" value="1440" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,6 +404,14 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitcoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitcoin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bitcoin" type="b2602c69:ProjectViewProjectNode" />
@@ -367,18 +461,7 @@
               <item name="bitcoin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="mipmap-xxxhdpi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bitcoin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitcoin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="values" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bitcoin" type="b2602c69:ProjectViewProjectNode" />
@@ -386,18 +469,43 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitcoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitcoin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bitcoin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitcoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitcoin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitcoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitcoin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="lenovo-lenovo_l78011-HKL4GU4W" />
+    <property name="DEBUGGABLE_PROCESS" value="com.cuieney.bitcoin" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="device.picker.selection" value="R28M13F339P" />
+    <property name="device.picker.selection" value="HKL4GU4W" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -405,7 +513,13 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cuieney.bitcoin" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main" />
       <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" />
     </key>
   </component>
@@ -521,31 +635,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
     <layout>
-      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Build Variants" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="simpleUML" order="6" weight="0.32962668" />
-      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.21763304" />
-      <window_info id="Resources Explorer" order="8" />
-      <window_info id="Structure" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="0" />
-      <window_info anchor="bottom" id="Build" order="1" weight="0.1459854" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
-      <window_info anchor="bottom" id="Android Profiler" order="3" />
-      <window_info anchor="bottom" id="CheckStyle" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" order="6" weight="0.329927" />
-      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.49343064" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Debug" order="11" />
-      <window_info anchor="right" id="Preview" weight="0.15607625" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4995197" visible="true" weight="0.21763304" />
+      <window_info id="Structure" order="1" sideWeight="0.5004803" side_tool="true" weight="0.21763304" />
+      <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="simpleUML" order="8" weight="0.32962668" />
+      <window_info id="Resources Explorer" order="9" />
+      <window_info anchor="bottom" id="Find" order="0" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="1" />
+      <window_info anchor="bottom" id="Build" order="2" sideWeight="0.49642575" weight="0.36058393" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.42970613" weight="0.329927" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" />
+      <window_info anchor="bottom" id="CheckStyle" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" x="21" y="494" width="2518" height="452" id="Logcat" order="9" sideWeight="0.5059571" side_tool="true" weight="0.5854015" />
+      <window_info anchor="bottom" id="Flutter Performance" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4940429" weight="0.5854015" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="PlantUML" order="1" weight="0.32962668" />
       <window_info anchor="right" id="Flutter Inspector" order="2" />
@@ -555,157 +669,225 @@
       <window_info anchor="right" id="Code Iris" order="6" weight="0.32962668" />
       <window_info anchor="right" id="Gradle" order="7" weight="0.32962668" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Preview" order="9" weight="0.15607625" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>203</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>207</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/kits/WalletAppKit.java</url>
+          <line>288</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>208</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>217</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/kits/WalletAppKit.java</url>
+          <line>297</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/kits/WalletAppKit.java</url>
+          <line>296</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/kits/WalletAppKit.java</url>
+          <line>303</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/kits/WalletAppKit.java</url>
+          <line>304</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/CreateWalletActivity.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>235</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>221</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/kits/WalletAppKit.java</url>
+          <line>339</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>360</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java</url>
+          <line>365</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/wallet/KeyChainGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1661">
-          <caret line="74" column="31" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          <folding>
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#1213#1214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/PrefixedChecksummedBytes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Environment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="564" column="53" selection-start-line="564" selection-start-column="34" selection-end-line="564" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Build.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="366" column="24" selection-start-line="366" selection-start-column="24" selection-end-line="366" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="5075" column="22" selection-start-line="5075" selection-start-column="22" selection-end-line="5075" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/Coin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1043">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/script/Script.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        <state relative-caret-position="391">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/wallet/Wallet.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/Peer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="298" column="100" selection-start-line="297" selection-start-column="7" selection-end-line="298" selection-end-column="100" />
+        <state relative-caret-position="6766">
+          <caret line="453" column="38" selection-start-line="453" selection-start-column="15" selection-end-line="453" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/checkpoints-testnet.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="62" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/BlockChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/listeners/DownloadProgressTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/AbstractBlockChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="149" column="36" selection-start-line="149" selection-start-column="36" selection-end-line="149" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/store/BlockStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/ActivityThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44115">
+          <caret line="2843" selection-start-line="2843" selection-end-line="2843" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/PeerGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22848">
+          <caret line="1402" column="16" selection-start-line="1402" selection-start-column="16" selection-end-line="1402" selection-end-column="16" />
           <folding>
-            <element signature="e#167690#167691#0" expanded="true" />
-            <element signature="e#167746#167747#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/logo.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="408">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
         </state>
       </provider>
       <provider editor-type-id="android-manifest" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/color/transparent.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/params/TestNet3Params.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="900">
+          <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/params/RegTestParams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="1073">
+          <caret line="88" column="45" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/BitUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1226">
-          <caret line="492" selection-start-line="52" selection-start-column="5" selection-end-line="492" />
+        <state relative-caret-position="308">
+          <caret line="433" column="29" selection-start-line="433" selection-start-column="29" selection-end-line="433" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/cuieney/bitcoin/ExampleUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="120" column="37" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
-          <folding>
-            <element signature="e#5226#5250#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/App.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/CheckpointManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="130" selection-start-line="6" selection-start-column="130" selection-end-line="6" selection-end-column="130" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="835">
+          <caret line="216" column="102" selection-start-line="216" selection-start-column="85" selection-end-line="216" selection-end-column="102" />
         </state>
       </provider>
     </entry>
@@ -715,41 +897,156 @@
           <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_sp.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/net/discovery/MultiplexingDiscovery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        <state relative-caret-position="333">
+          <caret line="58" column="47" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-27/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="7024" selection-start-line="7024" selection-end-line="7024" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="589" selection-start-line="589" selection-end-line="589" />
+          <folding>
+            <element signature="e#24169#24170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/utils/Threading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.1-android/60011ced203c8bc4b3a8cde2221dd892f37a598d/guava-27.1-android-sources.jar!/com/google/common/base/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/store/SPVBlockStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#2596#2855#0" expanded="true" />
+            <element signature="e#2854#2855#0" expanded="true" />
+            <element signature="e#3422#3646#0" expanded="true" />
+            <element signature="e#3645#3646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/nio/channels/OverlappingFileLockException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/wallet/KeyChainGroupStructure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="e#1181#1721#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/wallet/KeyChainGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="202" column="66" selection-start-line="202" selection-start-column="35" selection-end-line="202" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.1-android/60011ced203c8bc4b3a8cde2221dd892f37a598d/guava-27.1-android-sources.jar!/com/google/common/collect/ImmutableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+          <folding>
+            <element signature="e#2713#2714#0" expanded="true" />
+            <element signature="e#2754#2755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/kits/WalletAppKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="394" selection-start-line="394" selection-end-line="394" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.1-android/60011ced203c8bc4b3a8cde2221dd892f37a598d/guava-27.1-android-sources.jar!/com/google/common/util/concurrent/Callables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="937">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+          <folding>
+            <element signature="e#3757#4183#0" expanded="true" />
+            <element signature="e#4182#4183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/core/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="281" column="41" selection-start-line="281" selection-start-column="41" selection-end-line="281" selection-end-column="41" />
+          <folding>
+            <element signature="e#13098#13099#0" expanded="true" />
+            <element signature="e#13141#13142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_wallet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="33" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_key_word.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_choose_wallet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_sp.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_recover_wallet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/dash_line_sp.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -758,37 +1055,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_logo.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_download_peers.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="63" />
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/wallet/Wallet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="665" column="19" selection-start-line="665" selection-start-column="19" selection-end-line="665" selection-end-column="19" />
+          <folding>
+            <element signature="e#34501#34502#0" expanded="true" />
+            <element signature="e#34571#34572#0" expanded="true" />
+            <element signature="e#167690#167691#0" expanded="true" />
+            <element signature="e#167746#167747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.15.5/852d77a8f2c3d28d5a9bf3844a9c2ee38cdba49a/bitcoinj-core-0.15.5-sources.jar!/org/bitcoinj/uri/BitcoinURI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="348" column="25" selection-start-line="348" selection-start-column="25" selection-end-line="348" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#719#921#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/RecoverWalletActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_bitcoin.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainKitActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="153" column="55" selection-start-line="153" selection-start-column="55" selection-end-line="153" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/ChooseWalletActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/CreateWalletActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+        <state relative-caret-position="-224">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1385#1569#0" expanded="true" />
-            <element signature="e#1568#1569#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_wallet.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.1-android/60011ced203c8bc4b3a8cde2221dd892f37a598d/guava-27.1-android-sources.jar!/com/google/common/util/concurrent/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+        <state relative-caret-position="448">
+          <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.1-android/60011ced203c8bc4b3a8cde2221dd892f37a598d/guava-27.1-android-sources.jar!/com/google/common/util/concurrent/AbstractIdleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="157" column="20" selection-start-line="157" selection-start-column="20" selection-end-line="157" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cuieney/bitcoin/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1090">
+          <caret line="365" column="26" selection-start-line="365" selection-start-column="26" selection-end-line="365" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5070#5071#0" expanded="true" />
+            <element signature="e#5122#5123#0" expanded="true" />
+            <element signature="e#5273#5274#0" expanded="true" />
+            <element signature="e#5316#5317#0" expanded="true" />
+            <element signature="e#8222#8223#0" expanded="true" />
+            <element signature="e#8304#8305#0" expanded="true" />
+            <element signature="e#9326#9327#0" expanded="true" />
+            <element signature="e#9412#9413#0" expanded="true" />
+            <element signature="e#14442#14443#0" expanded="true" />
+            <element signature="e#14472#14473#0" expanded="true" />
+            <element signature="e#14520#14521#0" expanded="true" />
+            <element signature="e#14553#14554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
