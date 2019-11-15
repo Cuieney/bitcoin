@@ -50,6 +50,7 @@ import org.bitcoinj.core.listeners.PeerDiscoveredEventListener;
 import org.bitcoinj.kits.WalletAppKit;
 import org.bitcoinj.uri.BitcoinURI;
 import org.bitcoinj.utils.Threading;
+import org.bitcoinj.wallet.DeterministicSeed;
 import org.bitcoinj.wallet.KeyChain;
 import org.bitcoinj.wallet.SendRequest;
 import org.bitcoinj.wallet.Wallet;
@@ -59,9 +60,11 @@ import org.bitcoinj.wallet.listeners.WalletCoinsSentEventListener;
 import org.bitcoinj.wallet.listeners.WalletReorganizeEventListener;
 
 import java.io.File;
+import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.Date;
 import java.util.Hashtable;
+import java.util.List;
 import java.util.Set;
 
 
@@ -134,6 +137,27 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+        walletAddressImage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                DeterministicSeed seed = wallet.getKeyChainSeed();
+                List<String> code = seed.getMnemonicCode();
+                StringBuffer sb = new StringBuffer();
+                for (int i = 0; i < code.size(); i++) {
+                    sb.append(code.get(i));
+                    if (i != code.size()-1) {
+                        sb.append(" ");
+                    }
+                }
+                String seedList = sb.toString();
+                ClipboardManager cm = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
+                ClipData mClipData = ClipData.newPlainText("Label", seedList);
+                cm.setPrimaryClip(mClipData);
+                Toast.makeText(MainActivity.this, "助记词已复制", Toast.LENGTH_SHORT).show();
+            }
+
+        });
         walletAddress.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -176,7 +200,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (InsufficientMoneyException e) {
             Log.i(TAG, "Not enough coins in your wallet. Missing " + e.missing.getValue() + " satoshis are missing (including fees)");
             Log.i(TAG, "Send money to: " + walletAppKit.wallet().currentReceiveAddress().toString());
-
+            Toast.makeText(this, "Not enough coins in your wallet. Missing " + e.missing.getValue() + " satoshis are missing (including fees)", Toast.LENGTH_SHORT).show();
             ListenableFuture<Coin> balanceFuture = walletAppKit.wallet().getBalanceFuture(value, Wallet.BalanceType.AVAILABLE);
             FutureCallback<Coin> callback = new FutureCallback<Coin>() {
                 @Override

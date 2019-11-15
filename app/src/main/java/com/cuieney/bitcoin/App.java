@@ -12,7 +12,9 @@ public class App extends Application {
     public static final String WALLET_DIR = Environment.getExternalStorageDirectory().getAbsolutePath();//muUDcDMeWbqPkphy1oXsRpyELEieqXrbvx
     public static final String WALLET_PREFIX = "users_wallet";//muUDcDMeWbqPkphy1oXsRpyELEieqXrbvx
     public static final String WALLET_FILE_PATH = WALLET_DIR + "/"+WALLET_PREFIX+".wallet";//muUDcDMeWbqPkphy1oXsRpyELEieqXrbvx
+    public static final String WALLET_SEED_PATH = WALLET_DIR + "/seedcode.txt";//muUDcDMeWbqPkphy1oXsRpyELEieqXrbvx
     public static final String CHAIN_FILE_PATH = Environment.getExternalStorageDirectory().getAbsolutePath() + "/restore-from-seed.spvchain";//muUDcDMeWbqPkphy1oXsRpyELEieqXrbvx
+
     //    public static final String WALLET_FILE_PATH = Environment.getExternalStorageDirectory().getAbsolutePath() + "/wallet-protobuf2";//muUDcDMeWbqPkphy1oXsRpyELEieqXrbvx
     public static final NetworkParameters PARAMS = true ? TestNet3Params.get() : RegTestParams.get();
 
